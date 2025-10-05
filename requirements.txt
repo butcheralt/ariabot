@@ -1,0 +1,8 @@
+requests>=2.31.0
+openai>=1.0.0
+anthropic>=0.7.0
+cohere>=4.21.0
+groq>=0.4.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+python-telegram-bot>=20.0
